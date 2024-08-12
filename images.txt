@@ -1,1 +1,1 @@
-nginx:latest
+rockylinux:9
