@@ -9,6 +9,7 @@ gcr.io/cadvisor/cadvisor:v0.49.1
 ubuntu:22.04
 httpd:latest
 nginx:latest
+centos:7
 prom/alermanager:0.27.0
 busybox:2.28
 busybox:latest
