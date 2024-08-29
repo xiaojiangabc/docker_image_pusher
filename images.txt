@@ -1,2 +1,1 @@
-zabbix/zabbix-server-mysql:6.4.4-centos
-zabbix/zabbix-proxy-sqlite3:alpine-6.4.4
+zabbix/zabbix-agent:latest
