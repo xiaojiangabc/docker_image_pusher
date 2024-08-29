@@ -1,1 +1,1 @@
-zabbix:4.2
+zabbix-server-mysql:latest
