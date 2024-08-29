@@ -1,1 +1,1 @@
-zabbix-server:latest
+zabbix/zabbix-server-mysql:6.4.4-centos
